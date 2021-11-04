@@ -15,6 +15,9 @@ footer {
   text-align: center;
   color: #fff;
 }
+#logo a :visited {
+  color: #ccc;
+}
 header {
   background-color: #263248;
 }
